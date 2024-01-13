@@ -97,7 +97,9 @@
 	>1）反思：一个框架，为Agent提供动态记忆和自我反思的能力，以提升思维能力。
 	>2）自我批评：允许Agent通过改进过去的决策和纠正之前的错误，来迭代提升能力。
 	>3）思维链条：模型被指导“逐步思考”，以便模型将困难的任务分解成一个一个小的简单的任务去解决。
-	>4）四维树：
+	>4）思维树：通过在一个步骤探索多个解决方向的可能性，拓展了思维链条的宽度。
+	>
+	>工具：代码解释器、搜索
 
 感觉记忆
 
@@ -116,6 +118,6 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MjM0ODI4LC0zODI0ODY3ODgsLTEwNj
-EyNDcxMDYsLTI0NDc5MDg5N119
+eyJoaXN0b3J5IjpbMTczMDA1MTE5OCwtMzgyNDg2Nzg4LC0xMD
+YxMjQ3MTA2LC0yNDQ3OTA4OTddfQ==
 -->
