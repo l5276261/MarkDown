@@ -89,8 +89,8 @@
 > LLM：大语言模型   
 > 记忆：
 	>> 1.感觉记忆：模型在训练过程中的文本or图像or其他形式的vec表示。
-	>> 2.短期记忆：
-	>> 3.长期记忆
+	>> 2.短期记忆：在上下文中学习的知识，这部分是有效但是短线且有限的，因为上下文有窗口长度限制。
+	>> 3.长期记忆：在查询的过程中可以感知到的外部向量存储，可以通过检索快速访问。
 
 感觉记忆
 
@@ -109,6 +109,6 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjc4MDIxOCwtMTA2MTI0NzEwNiwtMj
+eyJoaXN0b3J5IjpbLTUxMjEyODIyMSwtMTA2MTI0NzEwNiwtMj
 Q0NzkwODk3XX0=
 -->
