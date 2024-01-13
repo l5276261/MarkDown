@@ -103,7 +103,7 @@
 	>
 	>神经： 智能体需要像人拥有各种神经模块一样，运用各种小的模型，来完成某个具体的任务，不能由一个大模型来主导，一不经济，二不实际。
 	>
-	>直觉：
+	>直觉：直觉就是L
 
 感觉记忆
 
@@ -122,6 +122,6 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkwOTU1ODgsLTM4MjQ4Njc4OCwtMT
-A2MTI0NzEwNiwtMjQ0NzkwODk3XX0=
+eyJoaXN0b3J5IjpbLTY3NDMzNDY2NywtMTUyOTA5NTU4OCwtMz
+gyNDg2Nzg4LC0xMDYxMjQ3MTA2LC0yNDQ3OTA4OTddfQ==
 -->
