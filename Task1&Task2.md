@@ -99,7 +99,9 @@
 	>3）思维链条：模型被指导“逐步思考”，以便模型将困难的任务分解成一个一个小的简单的任务去解决。
 	>4）思维树：通过在一个步骤探索多个解决方向的可能性，拓展了思维链条的宽度。
 	>
-	>工具：代码解释器、搜索
+	>工具：包括各种API，分为build something及use something。比如代码解释器、在线搜索之类的。
+	>
+	>神经： 
 
 感觉记忆
 
@@ -118,6 +120,6 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDA1MTE5OCwtMzgyNDg2Nzg4LC0xMD
+eyJoaXN0b3J5IjpbMTA4NDY4MTc2MSwtMzgyNDg2Nzg4LC0xMD
 YxMjQ3MTA2LC0yNDQ3OTA4OTddfQ==
 -->
