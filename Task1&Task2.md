@@ -113,6 +113,7 @@
   > 评审：决定了每一个智能体的输出要达到怎样的程度。
   > 路由：在什么样的交叉review的效果下，输出能达到接近完美。
   > 订阅：各个智能体之间的工作流，比如产品经理可能会订阅老板，架构师可能会订阅产品经理，程序员可能会订阅策划。
+  > 小结：其实智能体之间的协作，就是将人类世界的人与人之间的协作搬到了数字世界，其中的某些环节是否合理，是否可靠，都是动态可调整的。
 - 0:01 🌍大圆模型的发展路径  
 - 9:09 💡BERT的有效性和训练成本  
 - 18:23 🎮强化学习在模型推理中的应用  
@@ -126,7 +127,7 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjUxODYzOCwtMTQyNTA0MjgxNSwtMz
-E1ODcyMTM2LC0xNTI5MDk1NTg4LC0zODI0ODY3ODgsLTEwNjEy
-NDcxMDYsLTI0NDc5MDg5N119
+eyJoaXN0b3J5IjpbLTEyODI1MjM4NzksLTE0MjUwNDI4MTUsLT
+MxNTg3MjEzNiwtMTUyOTA5NTU4OCwtMzgyNDg2Nzg4LC0xMDYx
+MjQ3MTA2LC0yNDQ3OTA4OTddfQ==
 -->
