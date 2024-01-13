@@ -112,7 +112,7 @@
   > SOP：决定了每一个智能体是什么角色，需要怎么怎么去做工作的流转。
   > 评审：决定了每一个智能体的输出要达到怎样的程度。
   > 路由：在什么样的交叉review的效果下，输出能达到接近完美。
-  > 订阅：
+  > 订阅：各个智能体之间的工作流，比如产品经理可能会订阅老板，架构师可能会订阅产品经理，程序员可能会订阅策划。
 - 0:01 🌍大圆模型的发展路径  
 - 9:09 💡BERT的有效性和训练成本  
 - 18:23 🎮强化学习在模型推理中的应用  
@@ -126,7 +126,7 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzMzg1MjI0LC0xNDI1MDQyODE1LC0zMT
-U4NzIxMzYsLTE1MjkwOTU1ODgsLTM4MjQ4Njc4OCwtMTA2MTI0
-NzEwNiwtMjQ0NzkwODk3XX0=
+eyJoaXN0b3J5IjpbLTczNjUxODYzOCwtMTQyNTA0MjgxNSwtMz
+E1ODcyMTM2LC0xNTI5MDk1NTg4LC0zODI0ODY3ODgsLTEwNjEy
+NDcxMDYsLTI0NDc5MDg5N119
 -->
