@@ -84,6 +84,11 @@
 ---------------------------
 
 # Task2
+1. 什么是智能体（Agent）?
+  智能体 = LLM + 记忆 + 规划 + 工具 + 神经 + 直觉
+  LLM：
+2. 智能体如何协作？
+  多智能体 = 智能体 + 环境 + SOP + 评审 + 路由 + 订阅
 - 0:01 🌍大圆模型的发展路径  
 - 9:09 💡BERT的有效性和训练成本  
 - 18:23 🎮强化学习在模型推理中的应用  
@@ -97,5 +102,6 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjEyNDcxMDYsLTI0NDc5MDg5N119
+eyJoaXN0b3J5IjpbLTI1Mjk0ODMzMiwtMTA2MTI0NzEwNiwtMj
+Q0NzkwODk3XX0=
 -->
