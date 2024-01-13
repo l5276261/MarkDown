@@ -93,7 +93,7 @@
 	> 2) 短期记忆：在上下文中学习的知识，这部分是有效但是短线且有限的，因为上下文有窗口长度限制。
 	> 3) 长期记忆：在查询的过程中可以感知到的外部向量存储，可以通过检索快速访问。
 >
->规划：
+>规划：类似
 
 感觉记忆
 
@@ -112,6 +112,6 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjQ4Njc4OCwtMTA2MTI0NzEwNiwtMj
-Q0NzkwODk3XX0=
+eyJoaXN0b3J5IjpbMTU3NTEzMjE4OSwtMzgyNDg2Nzg4LC0xMD
+YxMjQ3MTA2LC0yNDQ3OTA4OTddfQ==
 -->
