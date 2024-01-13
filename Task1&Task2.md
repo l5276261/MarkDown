@@ -101,7 +101,9 @@
 	>
 	>工具：包括各种API，分为build something及use something。比如代码解释器、在线搜索之类的。
 	>
-	>神经： 
+	>神经： 智能体需要像人拥有各种神经模块一样，运用各种小的模型，来完成某个具体的任务，不能由一个大模型来主导，一不经济，二不实际。
+	>
+	>直觉：
 
 感觉记忆
 
@@ -120,6 +122,6 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDY4MTc2MSwtMzgyNDg2Nzg4LC0xMD
-YxMjQ3MTA2LC0yNDQ3OTA4OTddfQ==
+eyJoaXN0b3J5IjpbLTE1MjkwOTU1ODgsLTM4MjQ4Njc4OCwtMT
+A2MTI0NzEwNiwtMjQ0NzkwODk3XX0=
 -->
