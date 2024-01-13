@@ -88,7 +88,7 @@
   **智能体 = LLM + 记忆 + 规划 + 工具 + 神经 + 直觉**
 > LLM：大语言模型   
 > 记忆：
-	>> 1.感觉记忆： 学习原始输入（包括文本、图像或其他模式）的**嵌入表示**
+	>> 1.感觉记忆：模型在训练过程中的文本or图像or其他形式的vec表示。
 	>> 2.短期记忆：
 	>> 3.长期记忆
 
@@ -109,6 +109,6 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMxMzI0NTQsLTEwNjEyNDcxMDYsLT
-I0NDc5MDg5N119
+eyJoaXN0b3J5IjpbLTkyMjc4MDIxOCwtMTA2MTI0NzEwNiwtMj
+Q0NzkwODk3XX0=
 -->
