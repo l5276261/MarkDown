@@ -109,7 +109,7 @@
 2. 智能体如何协作？
   多智能体 = 智能体 + 环境 + SOP + 评审 + 路由 + 订阅
   > 环境：一个具体的业务场景，比如一个办公室，或者一个飞书群，微信群。可以让智能体在当中发生交互or协奏。这个环境还包括了智能体之间的相对关系，比如物理距离，或者是上下级关系之类的，这些都属于环境，决定者智能体之间的交互的方式。
-  > SOP：
+  > SOP：决定了每一个zhi'neng
 - 0:01 🌍大圆模型的发展路径  
 - 9:09 💡BERT的有效性和训练成本  
 - 18:23 🎮强化学习在模型推理中的应用  
@@ -123,7 +123,7 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjUwNDI4MTUsLTMxNTg3MjEzNiwtMT
-UyOTA5NTU4OCwtMzgyNDg2Nzg4LC0xMDYxMjQ3MTA2LC0yNDQ3
-OTA4OTddfQ==
+eyJoaXN0b3J5IjpbLTE0MDUyNjQxODEsLTE0MjUwNDI4MTUsLT
+MxNTg3MjEzNiwtMTUyOTA5NTU4OCwtMzgyNDg2Nzg4LC0xMDYx
+MjQ3MTA2LC0yNDQ3OTA4OTddfQ==
 -->
