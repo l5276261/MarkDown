@@ -95,7 +95,9 @@
 >
 >规划：类似人类规划一样的能力，有以下四个点
 	>1）反思：一个框架，为Agent提供动态记忆和自我反思的能力，以提升思维能力。
-	>2）
+	>2）自我批评：允许Agent通过改进过去的决策和之前的错误，来提升
+	>3）思维链条：
+	>4）四维树：
 
 感觉记忆
 
@@ -114,6 +116,6 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTQ4ODgwLC0zODI0ODY3ODgsLTEwNj
-EyNDcxMDYsLTI0NDc5MDg5N119
+eyJoaXN0b3J5IjpbMTA1OTcwNzQ2NywtMzgyNDg2Nzg4LC0xMD
+YxMjQ3MTA2LC0yNDQ3OTA4OTddfQ==
 -->
