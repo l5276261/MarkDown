@@ -103,7 +103,7 @@
 	>
 	>神经： 智能体需要像人拥有各种神经模块一样，运用各种小的模型，来完成某个具体的任务，不能由一个大模型来主导，一不经济，二不实际。
 	>
-	>直觉：直觉就是L
+	>直觉：直觉就是LLM的本能，在训练中已经完全会了的能力，类比我们人类的喝水吃饭，或者被人问起1+1等于多少，这些都是不需要额外的启动sys2，直接用sys1就能轻松解决的问题。
 
 感觉记忆
 
@@ -122,6 +122,6 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDMzNDY2NywtMTUyOTA5NTU4OCwtMz
+eyJoaXN0b3J5IjpbLTMxNTg3MjEzNiwtMTUyOTA5NTU4OCwtMz
 gyNDg2Nzg4LC0xMDYxMjQ3MTA2LC0yNDQ3OTA4OTddfQ==
 -->
