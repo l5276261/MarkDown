@@ -105,10 +105,11 @@
 	>
 	>直觉：直觉就是LLM的本能，在训练中已经完全会了的能力，类比我们人类的喝水吃饭，或者被人问起1+1等于多少，这些都是不需要额外的启动sys2，直接用sys1就能轻松解决的问题。
 
-感觉记忆
 
 2. 智能体如何协作？
   多智能体 = 智能体 + 环境 + SOP + 评审 + 路由 + 订阅
+  > 环境：一个具体的业务场景，比如一个办公室，或者一个飞书群，微信群。可以让智能体在当中发生交互or协奏。
+  > SOP：
 - 0:01 🌍大圆模型的发展路径  
 - 9:09 💡BERT的有效性和训练成本  
 - 18:23 🎮强化学习在模型推理中的应用  
@@ -122,6 +123,7 @@
 - 91:59 🔬Hugging GPT的工作原理和开源竞争
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTg3MjEzNiwtMTUyOTA5NTU4OCwtMz
-gyNDg2Nzg4LC0xMDYxMjQ3MTA2LC0yNDQ3OTA4OTddfQ==
+eyJoaXN0b3J5IjpbLTIwMzM2Njc5NjQsLTMxNTg3MjEzNiwtMT
+UyOTA5NTU4OCwtMzgyNDg2Nzg4LC0xMDYxMjQ3MTA2LC0yNDQ3
+OTA4OTddfQ==
 -->
